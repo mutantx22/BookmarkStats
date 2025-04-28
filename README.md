@@ -1,3 +1,9 @@
+# Usage
+
+  python bookmarkStats1.py
+
+
+
 # BookmarkStats
 A python application to get statistics from a browser (Chrome, Firefox, and IE are currently supported) bookmark export
 
